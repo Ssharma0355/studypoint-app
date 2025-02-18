@@ -2,7 +2,7 @@ import React from 'react'
 
 function StudyMaterial() {
   return (
-    <div>
+    <div className='study-material'>
       <h2>Study Material</h2>
       <ul>
         <li>Subject 1: [Link to Material]</li>
