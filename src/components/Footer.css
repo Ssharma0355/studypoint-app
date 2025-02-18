@@ -1,7 +1,11 @@
 .footer {
+    display: flex;
     background-color: #1E2A3A;
     text-align: center;
-    padding: 20px;
+    text-align: center;
+    justify-content: center;
+    padding-top: 2rem;
+    height: 3rem;
     margin-top: auto;
     /* This ensures the footer is pushed to the bottom */
     width: 100%;
@@ -9,6 +13,8 @@
 
 .footer p {
     font-size: 14px;
+   
     margin: 0;
     color: white;
+    width: 100%;
 }

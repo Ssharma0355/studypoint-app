@@ -5,7 +5,7 @@ import "./Presidents.css";
 
 function Presidents() {
   return (
-    <div className="presidents-page">
+    <div className="presidents-page main-page">
       <h2>Presidents of India</h2>
       <div className="card-grid">
         {presidentData.map((president, index) => (
