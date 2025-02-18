@@ -1,0 +1,52 @@
+/* General Styling */
+* {
+    font-family: 'Inter', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.study-material.main-page {
+    padding: 40px;
+    background-color: #f8f9fa;
+    height: 90vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.material-links ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    gap: 20px;
+    /* Adds space between links */
+}
+
+.material-links li {
+    margin: 0;
+    /* Remove margin since gap is handling spacing */
+}
+
+.material-link {
+    font-size: 1.2rem;
+    color: #007bff;
+    text-decoration: none;
+    border: 2px solid #007bff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    transition: all 0.3s ease;
+}
+
+.material-link:hover {
+    background-color: #007bff;
+    color: white;
+    transform: translateY(-2px);
+    /* Slight lift effect on hover */
+}
+
+.material-link:active {
+    transform: translateY(1px);
+    /* Subtle press effect */
+}
