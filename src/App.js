@@ -4,6 +4,7 @@ import {
   StudyMaterialPage,
   Presidents,
   PrimeMinisters,
+  Emperors,
 } from "./pages";
 import { Footer, Header } from "./components";
 
@@ -16,6 +17,7 @@ function App() {
         <Route path="/studymaterial" element={<StudyMaterialPage />} />
         <Route path="/presidents" element={<Presidents />} />
         <Route path="/primeminsiter" element={<PrimeMinisters />} />
+        <Route path="/emperors" element={<Emperors />} />
       </Routes>
       <Footer />
     </BrowserRouter>

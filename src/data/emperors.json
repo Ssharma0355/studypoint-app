@@ -1,0 +1,95 @@
+[
+    {
+      "name": "Chandragupta Maurya",
+      "dynasty": "Maurya",
+      "reign": "321 BCE - 297 BCE",
+      "details": "Founder of the Maurya Empire, known for unifying India and establishing a centralized government."
+    },
+    {
+      "name": "Ashoka the Great",
+      "dynasty": "Maurya",
+      "reign": "268 BCE - 232 BCE",
+      "details": "One of the greatest emperors of India, known for spreading Buddhism across India and abroad after the Kalinga War."
+    },
+    {
+      "name": "Chandragupta I",
+      "dynasty": "Gupta",
+      "reign": "320 CE - 335 CE",
+      "details": "Founder of the Gupta Empire, often referred to as the Golden Age of India."
+    },
+    {
+      "name": "Samudragupta",
+      "dynasty": "Gupta",
+      "reign": "335 CE - 380 CE",
+      "details": "Regarded as one of the greatest military leaders in Indian history, expanded the Gupta Empire significantly."
+    },
+    {
+      "name": "Harsha Vardhana",
+      "dynasty": "Vardhana",
+      "reign": "606 CE - 647 CE",
+      "details": "Known for his support of Buddhism and for unifying Northern India for a short period."
+    },
+
+    {
+      "name": "Raja Raja Chola I",
+      "dynasty": "Chola",
+      "reign": "985 CE - 1014 CE",
+      "details": "Expanded the Chola Empire significantly and built the Brihadeeswarar Temple in Thanjavur."
+    },
+    {
+      "name": "Krishnadevaraya",
+      "dynasty": "Vijayanagara",
+      "reign": "1509 CE - 1529 CE",
+      "details": "A prominent ruler of the Vijayanagara Empire, known for military conquests and cultural achievements."
+    },
+    {
+      "name": "Akbar the Great",
+      "dynasty": "Mughal",
+      "reign": "1556 CE - 1605 CE",
+      "details": "Known for consolidating the Mughal Empire, religious tolerance, and promoting the arts and culture."
+    },
+    {
+      "name": "Shah Jahan",
+      "dynasty": "Mughal",
+      "reign": "1628 CE - 1658 CE",
+      "details": "Known for commissioning the Taj Mahal and expanding the Mughal Empire."
+    },
+    {
+      "name": "Aurangzeb",
+      "dynasty": "Mughal",
+      "reign": "1658 CE - 1707 CE",
+      "details": "The last powerful Mughal emperor, known for expanding the empire to its largest territorial extent."
+    },
+
+    {
+      "name": "Maharaja Ranjit Singh",
+      "dynasty": "Sikh Empire",
+      "reign": "1801 CE - 1839 CE",
+      "details": "Founder of the Sikh Empire, known for uniting the Sikh Confederacy and his contributions to the modernization of India."
+    },
+    {
+      "name": "Bahadur Shah II",
+      "dynasty": "Mughal",
+      "reign": "1837 CE - 1857 CE",
+      "details": "The last Mughal emperor, exiled after the Indian Rebellion of 1857."
+    },
+    {
+      "name": "Maharaja Sayajirao Gaekwad III",
+      "dynasty": "Gaekwad",
+      "reign": "1875 CE - 1939 CE",
+      "details": "Ruler of Baroda, known for his progressive policies in education, infrastructure, and social reforms."
+    },
+    {
+      "name": "Shivaji Maharaj",
+      "dynasty": "Bhonsle",
+      "reign": "1674 CE - 1680 CE",
+      "details": "Founder of the Maratha Empire, known for his military tactics and resistance against Mughal rule."
+    },
+    {
+      "name": "Lord Mountbatten",
+      "dynasty": "British",
+      "reign": "1947 CE - 1948 CE",
+      "details": "The last British Viceroy of India who oversaw the partition of India and independence in 1947."
+    }
+  ]
+
