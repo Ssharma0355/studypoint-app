@@ -1,0 +1,87 @@
+.home.main-page {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    background-color: #f8f9fa;
+}
+
+.hero-section {
+    text-align: center;
+    padding: 50px 0;
+    background-color: #007bff;
+    color: white;
+    border-radius: 10px;
+    margin-bottom: 30px;
+}
+
+.hero-section h1 {
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+.hero-section p {
+    font-size: 1.2rem;
+    margin: 20px 0;
+}
+
+.cta .start-btn {
+    padding: 10px 20px;
+    font-size: 1.1rem;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.cta .start-btn:hover {
+    background-color: #218838;
+}
+
+.features {
+    padding: 50px 0;
+    background-color: #ffffff;
+}
+
+.features h2 {
+    text-align: center;
+    font-size: 2.5rem;
+    margin-bottom: 40px;
+}
+
+.feature-cards {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.feature-cards .card {
+    background-color: #f1f1f1;
+    padding: 20px;
+    width: 300px;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.feature-cards .card h3 {
+    font-size: 1.5rem;
+    color: #333;
+    margin-bottom: 15px;
+}
+
+.feature-cards .card p {
+    font-size: 1rem;
+    color: #555;
+}
+
+.footer-info {
+    text-align: center;
+    margin-top: 40px;
+    font-size: 1.2rem;
+    color: #333;
+}
+
+.footer-info p {
+    font-weight: bold;
+}
